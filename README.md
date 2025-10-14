@@ -1,7 +1,7 @@
 # Project Presentation 3 - GitHub Digital Portfolio
 
 **Course Code:** PRP372S  
-**Student Name:** Hope Nthembo Ringane  
+**Student Name:** Hope Ringane  
 **Student Number:** 221174109  
 
 ---
