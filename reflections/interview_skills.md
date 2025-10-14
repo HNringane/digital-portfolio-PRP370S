@@ -11,14 +11,15 @@
 ## STAR Reflection
 
 **Situation:**  
-During my WIL placement, I had opportunities to observe and participate in internal interviews and assessments.
+1.As part of my work readiness and interview preparation, I completed a mock interview exercise to strengthen my communication skills and confidence before real interviews.
+
 
 **Task:**  
-I needed to prepare for potential interviews and learn how to answer questions professionally.
+1.I was required to prepare detailed responses to common interview questions, such as describing my strengths, challenges, and professional experiences.
 
 **Action:**  
-I practiced common interview questions, researched the company culture, and sought feedback from my mentor on my responses.
+I reflected on my internship experiences at Plum Systems and crafted thoughtful, structured answers. I practiced expressing my technical and soft skills clearly and confidently, focusing on professionalism and self-awareness.
 
 **Result:**  
-I improved my confidence, learned to articulate my skills clearly, and received positive feedback on my preparedness.
+The activity helped me improve how I present myself in interviews and boosted my confidence when discussing my achievements. I learned to link my academic and practical experience to job-related questions effectively.
 
