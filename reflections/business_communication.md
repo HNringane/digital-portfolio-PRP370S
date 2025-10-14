@@ -3,6 +3,7 @@
 ## Evidence:
 1.Screenshot of professional email sent to supervisor regarding timesheet issue  
 [View Screenshot](../evidence/business_communication/email_timesheet_issue.png)
+
 2.Internship report for September 2025 (formal WIL report)
 [View Report](../evidence/business_communication/WIL_September_Report.pdf)
 - Work emails sent to supervisors/colleagues
