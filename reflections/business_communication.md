@@ -1,7 +1,7 @@
 # Business Communication Reflection
 
 ## Evidence:
-1.- Screenshot of professional email sent to supervisor regarding timesheet issue  
+1.Screenshot of professional email sent to supervisor regarding timesheet issue  
 [View Screenshot](../evidence/business_communication/email_timesheet_issue.png)
 - Work emails sent to supervisors/colleagues
 - Reports submitted during WIL
@@ -20,6 +20,5 @@
 
 
 **Result:**
-
 1.The email effectively communicated the problem, allowing my supervisors to understand and address the issue. This demonstrated my ability to write professional, clear, and structured workplace communication, as well as my initiative in resolving problems.
 
