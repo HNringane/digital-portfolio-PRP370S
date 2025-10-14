@@ -2,7 +2,7 @@
 
 ## Evidence:
 1.Screenshot of professional email sent to supervisor regarding timesheet issue  
-[View Screenshot](https://github.com/HNringane/digital-portfolio-PRP370S/blob/355a0bc54c2c3f6d74aa48b5c40646fb62edf15b/evidence/business_communication/email_timesheet_issue.png.png)
+[View Screenshot](evidence/business_communication/email_timesheet_issue.png)
 - Work emails sent to supervisors/colleagues
 - Reports submitted during WIL
 
