@@ -1,6 +1,9 @@
 # Professional Networking Reflection
 
 ## Evidence:
+1. Screenshot of LinkedIn profile update and networking activity  
+[View Screenshot](../evidence/professional_networking/linkedin_profile_screenshot.png)
+
 - LinkedIn profile updates or posts
 - Emails or messages connecting with colleagues or mentors
 - Participation in professional meetings/events
@@ -8,14 +11,13 @@
 ## STAR Reflection
 
 **Situation:**  
-During my WIL placement, I was encouraged to network with colleagues and industry professionals.
+As part of my WIL and work readiness development, I was encouraged to build my professional network to prepare for post-graduation job opportunities.
 
 **Task:**  
-I had to build meaningful professional relationships to enhance my career opportunities.
+I needed to improve my online professional presence and connect with people in the IT field to expand my opportunities.
 
 **Action:**  
-I attended meetings, connected with professionals on LinkedIn, and maintained communication by sharing relevant updates and insights.
+I updated my LinkedIn profile with my WIL experience at Plum Systems, connected with industry peers, followed relevant technology pages, and engaged with professional posts.
 
 **Result:**  
-I expanded my professional network, received mentorship, and gained a better understanding of workplace culture and expectations.
-
+I enhanced my digital identity, received engagement from other professionals, and gained insight into potential IT career paths. This activity strengthened my communication and networking confidence.
