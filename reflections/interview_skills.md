@@ -4,8 +4,9 @@
 1.Practice interview answers document  
 [View File](../evidence/interview_skills/interview_practice_answers.txt)
 
-2.Notes and feedback from mock interview practice session  
-[View Document](../evidence/mock_interview/mock_interview_notes.txt)
+2.Mock interview preparation and notes  
+[View Notes](../evidence/interview_skills/mock_interview_notes.txt)
+
 
 - Notes or recordings from mock interview preparation
 - Feedback received from WIL supervisors
