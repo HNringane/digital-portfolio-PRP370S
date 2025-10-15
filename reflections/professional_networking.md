@@ -3,6 +3,8 @@
 ## Evidence:
 1. Screenshot of LinkedIn profile update and networking activity  
 [View Screenshot](../evidence/professional_networking/linkedin_profile_screenshot.png)
+2. Screenshot of email to supervisor regarding To-Do List app file  
+[View Screenshot](../evidence/professional_networking/todo_app_email.png)
 
 - LinkedIn profile updates or posts
 - Emails or messages connecting with colleagues or mentors
