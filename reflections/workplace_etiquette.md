@@ -11,14 +11,14 @@
 ## STAR Reflection
 
 **Situation:**  
-During WIL, I needed to follow professional conduct while performing daily tasks in the workplace.
+1.During my WIL at Plum Systems, I was required to maintain consistent attendance and track my working hours.
 
 **Task:**  
-I had to demonstrate proper workplace etiquette, including punctuality, communication, and teamwork.
+1.I needed to demonstrate professionalism by recording accurate hours and adhering to company policies.
 
 **Action:**  
-I adhered to company policies, dressed appropriately, greeted colleagues professionally, and collaborated respectfully on team projects.
+1.I completed my daily timesheets meticulously, attended meetings on time, and reported my tasks clearly in the system.
 
 **Result:**  
-I received positive feedback from supervisors, adapted well to workplace culture, and developed strong professional habits.
+1.My supervisor was able to track my progress efficiently, and my consistent attendance and punctuality were recognized as part of professional workplace behavior.
 
