@@ -2,7 +2,7 @@
 
 ## Evidence:
 1. Monthly timesheet showing attendance and punctuality  
-[View PDF](../evidence/workplace_etiquette/september_timesheet.png)
+[View png](../evidence/workplace_etiquette/september_timesheet.png)
 
 - Attendance records
 - Feedback from supervisors
