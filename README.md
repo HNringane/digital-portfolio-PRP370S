@@ -36,6 +36,13 @@ Timesheets, supervisor feedback, and reflections showing professionalism and ada
 ##  Reflections
 Each section includes a **STAR reflection** (Situation, Task, Action, Result) to show how I learned and grew through each experience.
 
+1. [Business Communication Reflection](reflections/business_communication.md)
+2. [Interview Skills Reflection](reflections/interview_skills.md)
+3. [Mock Interview Reflection](reflections/mock_interview.md)
+4. [Professional Networking Reflection](reflections/professional_networking.md)
+5. [Workplace Etiquette Reflection](reflections/workplace_etiquette.md)
+
+
 ---
 
 **© 2025 Hope Ringane — PRP372S Digital Portfolio*
