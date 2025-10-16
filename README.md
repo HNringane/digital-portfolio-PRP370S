@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Purpose of the Portfolio
+##  Purpose of the Portfolio
 
 This digital portfolio showcases my **Work Readiness Training** and **Work Integrated Learning (WIL)** experience at Plum Systems.  
 It includes evidence of communication skills, interview preparation, professional networking, and workplace etiquette.  
@@ -14,7 +14,7 @@ The portfolio demonstrates my ability to organize, reflect, and present professi
 
 ---
 
-## 📁 Portfolio Sections
+##  Portfolio Sections
 
 ### 1. [Business Communication](./evidence/business_communication)
 Emails, formal documents, and professional correspondence that show effective workplace communication.
@@ -33,7 +33,7 @@ Timesheets, supervisor feedback, and reflections showing professionalism and ada
 
 ---
 
-## 🪶 Reflections
+##  Reflections
 Each section includes a **STAR reflection** (Situation, Task, Action, Result) to show how I learned and grew through each experience.
 
 ---
