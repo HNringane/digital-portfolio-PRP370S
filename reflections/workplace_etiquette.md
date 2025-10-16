@@ -4,7 +4,7 @@
 1. Monthly timesheet showing attendance and punctuality  
 [View png](../evidence/workplace_etiquette/september_timesheet.png)
 2. Supervisor feedback highlighting adaptability and professional competence  
-[View Feedback](../evidence/workplace_etiquette/supervisor_feedback.txt)
+[View Feedback](../evidence/workplace_etiquette/supervisor_feedback.png)
 
 
 ## STAR Reflection
