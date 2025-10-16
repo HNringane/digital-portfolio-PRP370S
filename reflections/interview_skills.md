@@ -8,10 +8,6 @@
 [View Notes](../evidence/interview_skills/mock_interview_notes.txt)
 
 
-- Notes or recordings from mock interview preparation
-- Feedback received from WIL supervisors
-- Any real interview experience
-
 ## STAR Reflection
 
 **Situation:**  
